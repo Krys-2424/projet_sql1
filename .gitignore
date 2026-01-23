@@ -8,11 +8,7 @@ env/
 venv/
 .venv/
 
-# Base de données (contient des données sensibles)
-*.db
-
-# Configuration email (contient des identifiants)
-config_email.py
+# Python cache
 
 # IDE
 .vscode/
