@@ -50,4 +50,4 @@ Application d'authentification complète développée en Python avec interface g
 
 ## Auteur
 
-Projet BTS SIO
+Krystal CHAPITEAU 
