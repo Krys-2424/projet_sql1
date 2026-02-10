@@ -1,3 +1,12 @@
+# Credentials et configuration
+config_email.py
+*.env
+
+# Base de données
+*.db
+*.sqlite
+*.sqlite3
+
 # Python
 __pycache__/
 *.py[cod]
@@ -6,7 +15,6 @@ __pycache__/
 .Python
 env/
 venv/
-.venv/
 
 # Python cache
 
@@ -17,3 +25,7 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+
+
+venv/
